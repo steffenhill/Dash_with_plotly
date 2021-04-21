@@ -42,11 +42,14 @@ The interactive dashboard can be accessed through the following link:
 https://health-eu.herokuapp.com
 
 References
-[1] Food and Agriculture Organization of the United Nations:
+[1] Food and Agriculture Organization of the United Nations: 
 http://www.fao.org/faostat/en/#data/FBS
+
 [2] Our World in Data:
 https://covid.ourworldindata.org/data/owid-covid-data.csv?v=2021-03-11
+
 [3] Opendatasoft:
 https://data.opendatasoft.com/explore/dataset/european-union-countries@public/export/
+
 [4] Eurostat:
 https://ec.europa.eu/eurostat/databrowser/view/HLTH_SHA11_HF__custom_227597/book mark/table?lang=en&bookmarkId=1530a1e6-767e-4661-9e15-0ed2f7fae0d5
